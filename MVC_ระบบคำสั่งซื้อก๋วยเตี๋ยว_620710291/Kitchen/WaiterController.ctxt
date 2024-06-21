@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WaiterController
+comment1.params=custView\ kitModel
+comment1.target=WaiterController(CustomerView,\ KitchenModel)
+comment2.params=order\ NCustomer
+comment2.target=void\ takeOrder(java.lang.String,\ java.lang.String)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CustomerView
+comment1.params=order\ NCustomer
+comment1.target=void\ restuarant(java.lang.String,\ java.lang.String)
+comment2.params=NCustomer\ order\ admixture
+comment2.target=void\ receiveOrder(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

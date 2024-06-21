@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KitchenModel
+comment1.params=
+comment1.target=KitchenModel()
+comment2.params=
+comment2.target=java.lang.String\ getOrder()
+comment3.params=
+comment3.target=java.lang.String\ getAdmixture()
+comment4.params=order
+comment4.target=void\ recives(java.lang.String)
+comment5.params=order
+comment5.target=void\ returnOrder(java.lang.String)
+comment6.params=order
+comment6.target=void\ prepareOrder(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getPreparedAdmixture()
+numComments=8
